@@ -5,4 +5,5 @@ package com.qf;
  * @Date 2019/10/23
  */
 public class Target {
+  main();
 }
